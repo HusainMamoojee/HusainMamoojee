@@ -1,4 +1,4 @@
-svg width="1180" height="610" viewBox="0 0 1180 610" xmlns="http://www.w3.org/2000/svg">
+ <picture> <source media="(prefers-color-scheme: dark)" srcset="dark.svg"> <source media="(prefers-color-scheme: light)" srcset="light.svg"> <img src="dark.svg" alt="Husain Mamoojee"> </picture>
 <defs>
   <clipPath id="canvasClip"><rect width="1180" height="610" rx="24"/></clipPath>
   <clipPath id="leftPanelClip"><rect x="40" y="40" width="380" height="530" rx="20"/></clipPath>
