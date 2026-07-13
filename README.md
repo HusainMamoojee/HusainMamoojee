@@ -27,20 +27,7 @@
 
 ## Tech Stack
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/Java-0F172A?style=flat-square&logo=openjdk&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/PHP-0F172A?style=flat-square&logo=php&logoColor=6366F1"/>
-<img src="https://img.shields.io/badge/Swift-0F172A?style=flat-square&logo=swift&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=8B5CF6"/>
-<img src="https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=10B981"/>
-<img src="https://img.shields.io/badge/MySQL-0F172A?style=flat-square&logo=mysql&logoColor=6366F1"/>
-<img src="https://img.shields.io/badge/Azure-0F172A?style=flat-square&logo=microsoftazure&logoColor=22D3EE"/>
-<img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=8B5CF6"/>
-
-</div>
 
 <br/>
 
